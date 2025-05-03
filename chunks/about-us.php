@@ -1,0 +1,7 @@
+<section class="fabout">
+		<div class="section white center">
+		      <div class="row container">
+		        <h2 class="header">ABOUT US</h2>
+		        <p class="grey-text text-darken-3 lighten-3">At The Tasty Bite, we believe that great food brings people together.Established in 2015, our journey began with a vision to create a dining experience that blends comfort and creativity.Our menu features a fusion of traditional and contemporary dishes, each thoughtfully prepared to highlight the freshest seasonal ingredients sourced from local farms and markets.Our passion for food is matched only by our commitment to exceptional service.From the moment you walk through our doors, our friendly staff is here to ensure you feel welcomed and valued.We take pride in creating an inviting atmosphere that encourages laughter, connection, and unforgettable memories.Whether you're indulging in one of our signature dishes, savoring a handcrafted cocktail, or enjoying a decadent dessert, we aim to delight your senses.We also offer a range of vegetarian, vegan, and gluten-free options to accommodate all dietary preferences.At The Tasty Bite, we’re not just about meals; we’re about experiences.Join us for special events, seasonal tastings, and community gatherings that celebrate our love for food and fellowship. We invite you to be part of our story—come dine with us and discover your new favorite spot!</p>
+		      </div>
+	</section>
