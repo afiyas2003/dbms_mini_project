@@ -1,4 +1,4 @@
-# tastybite
+# Tastybite
 
 
 A Simple Demo Resturant Management System Project in PHP
